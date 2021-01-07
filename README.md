@@ -1,13 +1,13 @@
 
-![](images/f1.PNG)
+![](img/f1.PNG)
 
-![](images/f2.PNG)
+![](img/f2.PNG)
 
-![](images/f3.PNG)
+![](img/f3.PNG)
 
-![](images/f4.PNG)
+![](img/f4.PNG)
 
-![](images/f5.PNG)
+![](img/f5.PNG)
 
 #Live link
 (https://react-footwear.herokuapp.com/)
